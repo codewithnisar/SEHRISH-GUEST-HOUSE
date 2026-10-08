@@ -1,0 +1,16 @@
+{
+  "name": "Sehrish Guest House Skardu",
+  "short_name": "Sehrish Skardu",
+  "description": "Boutique luxury mountain guest house in Aliabad, Skardu with 360 Karakoram views, cozy suites, and warm Balti hospitality.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#071916",
+  "theme_color": "#071916",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
